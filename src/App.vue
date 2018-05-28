@@ -8,7 +8,7 @@
 <script>
 import Vue from 'vue';
 
-import NavBar from './NavBar.vue';
+import NavBar from './components/NavBar.vue';
 import VueRouter from 'vue-router';
 import VueResource from 'vue-resource';
 
